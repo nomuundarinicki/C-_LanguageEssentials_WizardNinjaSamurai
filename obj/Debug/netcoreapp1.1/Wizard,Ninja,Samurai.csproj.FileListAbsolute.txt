@@ -1,0 +1,8 @@
+/Users/nickchimedbavuu/Desktop/C#/Wizard,Ninja,Samurai/bin/Debug/netcoreapp1.1/Wizard,Ninja,Samurai.deps.json
+/Users/nickchimedbavuu/Desktop/C#/Wizard,Ninja,Samurai/bin/Debug/netcoreapp1.1/Wizard,Ninja,Samurai.runtimeconfig.json
+/Users/nickchimedbavuu/Desktop/C#/Wizard,Ninja,Samurai/bin/Debug/netcoreapp1.1/Wizard,Ninja,Samurai.runtimeconfig.dev.json
+/Users/nickchimedbavuu/Desktop/C#/Wizard,Ninja,Samurai/obj/Debug/netcoreapp1.1/Wizard,Ninja,Samurai.AssemblyInfo.cs
+/Users/nickchimedbavuu/Desktop/C#/Wizard,Ninja,Samurai/bin/Debug/netcoreapp1.1/Wizard,Ninja,Samurai.dll
+/Users/nickchimedbavuu/Desktop/C#/Wizard,Ninja,Samurai/bin/Debug/netcoreapp1.1/Wizard,Ninja,Samurai.pdb
+/Users/nickchimedbavuu/Desktop/C#/Wizard,Ninja,Samurai/obj/Debug/netcoreapp1.1/Wizard,Ninja,Samurai.dll
+/Users/nickchimedbavuu/Desktop/C#/Wizard,Ninja,Samurai/obj/Debug/netcoreapp1.1/Wizard,Ninja,Samurai.pdb
